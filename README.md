@@ -1,1 +1,1 @@
-# IdeagenTest-2024-Table-Filter
+# IdeagenTest-2024-FE (Table CRUD + Filtering)
